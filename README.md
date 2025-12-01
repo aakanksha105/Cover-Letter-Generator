@@ -35,7 +35,7 @@ Make sure you have [Poetry](https://python-poetry.org/) installed.
 ### Clone the Repository
 
 ```bash
-##git clone https://github.com/Sohanrpatil/Cover-Letter-Generator.git
+git clone https://github.com/aakanksha105/Cover-Letter-Generator.git
 cd cover-letter-generator
 ```
 
