@@ -65,6 +65,18 @@ Create a .env file in the project root with the following variable:
 OPENAI_API_KEY=your_api_key_here  
 
 
+## Screenshots
+<img width="672" height="741" alt="Screenshot 2026-01-22 at 4 22 58 PM" src="https://github.com/user-attachments/assets/d8e304f7-78f8-42b8-890c-09845009e1f6" />
+
+Job Link: https://www.linkedin.com/jobs/collections/recommended/?currentJobId=4342175701&discover=recommended&discoveryOrigin=JOBS_HOME_JYMBII
+
+1. Classic Cover Letter
+   <img width="376" height="338" alt="Screenshot 2026-01-22 at 4 36 55 PM" src="https://github.com/user-attachments/assets/3524ca57-ecf6-4d9a-a8b5-b30d157f9ef3" />
+
+2. Modern Cover Letter
+
+
+<img width="371" height="152" alt="Screenshot 2026-01-22 at 4 36 48 PM" src="https://github.com/user-attachments/assets/a754da75-8cda-4644-ad5e-1d4ec7a6d2c8" />
 
 
 
