@@ -64,34 +64,10 @@ Create a .env file in the project root with the following variable:
 
 OPENAI_API_KEY=your_api_key_here  
 
-(Optional) You may also add a .env.example file with:
 
-OPENAI_API_KEY=your_openai_api_key_here  
 
----
 
-## Testing
 
-Basic unit tests validate prompt generation and input handling.
-
-Command:  
-pytest  
-
----
-
-## Screenshots
-
-Add screenshots of the UI and generated cover letter output here.
-
----
-
-## Roadmap
-- Add user authentication  
-- Improve prompt evaluation and response consistency  
-- Add export options (PDF / DOCX)  
-- Introduce caching for repeated inputs  
-
----
 
 ## License
 MIT License
